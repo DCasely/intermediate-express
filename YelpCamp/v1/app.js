@@ -20,6 +20,36 @@ var campgrounds = [
     name: "Mountain Goat's Rest",
     image:
       'https://pixabay.com/get/57e8d0424a5bae14f6da8c7dda793f7f1636dfe2564c704c7d2d7ad5974ecc58_340.jpg'
+  },
+  {
+    name: 'Salmon Creek',
+    image:
+      'https://pixabay.com/get/54e5dc474355a914f6da8c7dda793f7f1636dfe2564c704c7d2d7ad5974ecc58_340.jpg'
+  },
+  {
+    name: 'Granite Hill',
+    image:
+      'https://pixabay.com/get/52e3d5404957a514f6da8c7dda793f7f1636dfe2564c704c7d2d7ad5974ecc58_340.jpg'
+  },
+  {
+    name: "Mountain Goat's Rest",
+    image:
+      'https://pixabay.com/get/57e8d0424a5bae14f6da8c7dda793f7f1636dfe2564c704c7d2d7ad5974ecc58_340.jpg'
+  },
+  {
+    name: 'Salmon Creek',
+    image:
+      'https://pixabay.com/get/54e5dc474355a914f6da8c7dda793f7f1636dfe2564c704c7d2d7ad5974ecc58_340.jpg'
+  },
+  {
+    name: 'Granite Hill',
+    image:
+      'https://pixabay.com/get/52e3d5404957a514f6da8c7dda793f7f1636dfe2564c704c7d2d7ad5974ecc58_340.jpg'
+  },
+  {
+    name: "Mountain Goat's Rest",
+    image:
+      'https://pixabay.com/get/57e8d0424a5bae14f6da8c7dda793f7f1636dfe2564c704c7d2d7ad5974ecc58_340.jpg'
   }
 ];
 
