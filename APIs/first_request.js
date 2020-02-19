@@ -5,15 +5,13 @@
 //   console.log('body:', body); // Print the HTML for the Google homepage.
 // });
 
+console.log('Sunset in Hawaii is at...');
 var request = require('request');
-request('http://www.google.com', function(error, response, body) {
-  if (error) {
-    console.log('SOMETHING WENT WRONG!');
-    console.log(error);
-  } else {
-    if (response.statusCode == 200) {
-      // THINGS WORKED!
-      console.log(body);
-    }
+request('http://www.yahoo.com', function(error, response, body) {
+  if (!error && response.statusCode === 200) {
+    var parsedData = JSON.parse(body);
+    console.log(
+      parsedData['query']['results']['channel']['astronomy']['sunset']
+    );
   }
 });
