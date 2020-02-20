@@ -12,3 +12,9 @@
 - Create the Blog model
 - Add INDEX route and template
 - Add Simple Nav Bar
+
+# Basic Layout
+
+- Add Header and Footer Partials
+- Include Semantic UI
+- Add Simple Nav
