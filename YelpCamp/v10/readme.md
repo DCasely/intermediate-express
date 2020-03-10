@@ -146,6 +146,9 @@ Each Campground has:
 - Add Destroy route
 - Add Delete button
 
+Campground Destroy Route: /campground/:id
+Comment Destroy Route: /campgrounds/:id/comments/:comment_id
+
 # Authorization Part 2: Comments
 
 - User can only edit his/her comments
